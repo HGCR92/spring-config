@@ -1,0 +1,11 @@
+build:
+  version: "v1.0"
+
+contact:
+  message: "Bank System - Loans API"
+  details:
+    name: "Paul Atreiris - Product Owner"
+    email: "paulatreiris@hotmail.com"
+  phone-numbers:
+    - (57) 310-866-1675
+

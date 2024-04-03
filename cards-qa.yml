@@ -1,0 +1,11 @@
+build:
+  version: "v2.0"
+
+contact:
+  message: "Bank System - Cards API"
+  details:
+    name: "Maria Perez - QA Lead"
+    email: "perez123@hotmail.com"
+  phone-numbers:
+    - (57) 310-866-1675
+

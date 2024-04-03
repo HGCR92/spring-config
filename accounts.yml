@@ -1,0 +1,11 @@
+build:
+  version: "v3.0"
+
+contact:
+  message: "Bank System - Accounts API"
+  details:
+    name: "Juan Camilo Aranda Martinez - Developer"
+    email: "camiloaranda07@hotmail.com"
+  phone-numbers:
+    - (57) 310-866-1675
+
